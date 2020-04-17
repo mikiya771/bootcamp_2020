@@ -181,6 +181,7 @@ nginxのインストールが完了したので、インベントリの`nginx`�
 ```html
 <html>
   <head>
+    <meta http-equiv="content-type" charset="utf-8">
     <title>サンプル</title>
   </head>
   <body>
